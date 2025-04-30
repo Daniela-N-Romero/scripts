@@ -1,0 +1,15 @@
+{
+  "name": "crear-webp-480-768-7024-1444px",
+  "version": "1.0.0",
+  "main": "resize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.34.1"
+  }
+}
